@@ -3,6 +3,7 @@
 A real-time push-up counter powered by computer vision — no sensors, no wearables, just your webcam and smart pose estimation.
 
 ## 📹 Demo
+https://www.linkedin.com/posts/siddhartha-reddy-054321341_python-opencv-mediapipe-activity-7360493210772598784-o8ko?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWnnQABq0G5pIuH2HRM3JXaXmGVTg8aTxI
 
 
 ## 🛠️ Tech Stack
